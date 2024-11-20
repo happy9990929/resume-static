@@ -262,11 +262,6 @@ h4,
   -o-transition: 0.3s all ease-out;
   transition: 0.3s all ease-out;
 }
-.ftco-navbar-light.scrolled.sleep {
-  -webkit-transition: 0.3s all ease-out;
-  -o-transition: 0.3s all ease-out;
-  transition: 0.3s all ease-out;
-}
 .ftco-navbar-light.scrolled .navbar-brand {
   color: #000000;
   padding-top: 1rem;
@@ -920,7 +915,7 @@ h4,
   margin-bottom: 20px;
 }
 
-/* 專業背景 Experience */
+/* 專業背景 */
 .work {
   margin-bottom: 20px;
   padding-bottom: 20px;
